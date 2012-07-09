@@ -2,21 +2,17 @@
 
 A jQuery autocomplete plugin for the discerning developer.
 
-Any+Time time picker plugin for rails, with support for Timezones.
+Bundle for a rails 3.x application using assets pipeline.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'marcopolo', git: 'git://github.com/fred/marcopolo-rails.git'
+     gem 'marcopolo', git: 'git://github.com/fred/marcopolo-rails.git'
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install marcopolo
+     $ bundle
 
 ## Usage
 
@@ -24,17 +20,9 @@ In your application.js
 
      //= require marcopolo
 
-In your application.css
-
-     *= marcopolo
-
-or for sass file
-
-     @import marcopolo
-
 Then follow instructions at 
 
-https://github.com/jstayton/jquery-marcopolo
+     https://github.com/jstayton/jquery-marcopolo
 
 
 ## Contributing
