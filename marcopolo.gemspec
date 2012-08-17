@@ -1,5 +1,11 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/marcopolo/version', __FILE__)
+if RUBY_VERSION == '1.8.7'
+  $:.unshift File.expand_path("../lib", __FILE__)
+  require "marcopolo/version"
+else
+  # ruby 1.9
+  require File.expand_path('../lib/marcopolo/version', __FILE__)
+end
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Frederico Araujo"]
