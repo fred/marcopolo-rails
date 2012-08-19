@@ -6,7 +6,7 @@ Bundle for a rails 3.x application using assets pipeline.
 
 # Patches
 
-I've added the functionality to allow users to press and submit the form.
+I've added the functionality to allow users to press ENTER key and submit the form.
 Based on this pull request: https://github.com/kerin/jquery-marcopolo/commit/099051e90ed27ceb1941d687b2b2fe45762e7872
 
 This feature was not merged into Marcopolo, but I need this feature and rely on it, so I am incorporating it here.

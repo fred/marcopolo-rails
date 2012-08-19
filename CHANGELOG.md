@@ -1,15 +1,18 @@
 CHANGELOG
 
-== August 19, 2012
-* Release Version 1.0.2
+## 1.0.2 (2012-08-25)
+
 * Added pull request to enter key to submit form
 * Require Rails 3.1+ for Assets Pipeline and Sass
 
-== August 17, 2012
+## (2012-08-17)
+
 * Compatibility with Ruby 1.8.7 (Christopher Arnold)
 
-== July 13, 2012
+## (2012-07-13)
+
 * Added a stylesheet (sass)
 
-== July 10, 2012
+## 1.0.0 (2012-07-10)
+
 * First Release 1.0.0
