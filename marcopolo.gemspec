@@ -14,8 +14,9 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{A jQuery autocomplete plugin for the discerning developer, rails bundle.}
   gem.homepage      = "https://github.com/fred/marcopolo-rails"
 
-  gem.add_dependency 'rails', '>= 3.0.0'
-  gem.add_dependency 'jquery-rails', '>= 1.0.0'
+  gem.add_dependency 'rails', '>= 3.1.0'
+  gem.add_dependency 'sass-rails', '>= 3.1.0'
+  gem.add_dependency 'jquery-rails', '>= 1.0'
 
   gem.files         = `git ls-files`.split($\)
   gem.name          = "marcopolo"
