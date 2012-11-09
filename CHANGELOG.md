@@ -1,5 +1,9 @@
 CHANGELOG
 
+## 1.0.4 (2012-11-09)
+
+  * Updated from upstream version 1.7.3
+
 ## 1.0.3 (2012-09-11)
 
   * Updated from upstream version 1.7.1
